@@ -16,7 +16,7 @@
 
 ## Варіант 7
 <p align="center">
-  <img src="variant7.png"> 
+  <img src="variant7.jpg"> 
 </p>
 
 ## Реалізація програми мовою Common Lisp
